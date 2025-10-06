@@ -1,0 +1,64 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál es la capital de Francia?",
+            "opciones": {
+                "0": "Berlín",
+                "1": "Madrid",
+                "2": "París",
+                "3": "Roma"
+            },
+            "respuesta_correcta": 2
+        },
+        {
+            "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+            "opciones": {
+                "0": "Gabriel García Márquez",
+                "1": "Mario Vargas Llosa",
+                "2": "Julio Cortázar",
+                "3": "Isabel Allende"
+            },
+            "respuesta_correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es el elemento químico con el símbolo 'O'?",
+            "opciones": {
+                "0": "Oro",
+                "1": "Oxígeno",
+                "2": "Osmio",
+                "3": "Oxalato"
+            },
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es el río más largo del mundo?",
+            "opciones": {
+                "0": "Nilo",
+                "1": "Amazonas",
+                "2": "Yangtsé",
+                "3": "Misisipi"
+            },
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿En qué año llegó el hombre a la Luna?",
+            "opciones": {
+                "0": "1965",
+                "1": "1969",
+                "2": "1971",
+                "3": "1975"
+            },
+            "respuesta_correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la moneda oficial de Japón?",
+            "opciones": {
+                "0": "Yen",
+                "1": "Won",
+                "2": "Dólar",
+                "3": "Euro"
+            },
+            "respuesta_correcta": 0
+        }
+    ]
+}
